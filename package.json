@@ -10,7 +10,10 @@
   "keywords": [
     "schematics"
   ],
-  "author": "",
+  "author": {
+    "name": "Fabian Kaupp",
+    "email": "kauppfbi@gmail.com"
+  },
   "license": "MIT",
   "schematics": "./src/collection.json",
   "dependencies": {
